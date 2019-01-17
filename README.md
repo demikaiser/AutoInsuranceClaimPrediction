@@ -1,7 +1,7 @@
 # AutoInsuranceClaimPrediction
 
 This is a repository to show the process for predicting a claim amount of a
-customer of an automobile insurance. Unfortunately, some data is confidential
+customer of automobile insurance. Unfortunately, some data is confidential
 so all the sensitive parts are removed from the project; however, there is 
 still a good amount of information on the exploration. This project was held
 as an in-class competition (8 teams in total), and we got the 1st place.
