@@ -1,0 +1,8 @@
+<Instruction to Generate Submission File from testset.csv>
+
+1. Resolve dependencies from the import statement in the Python file.
+e.g. pip install sklearn
+e.g. pip install sklearn-pandas
+2. Put the file "testset.csv" in the same folder with the Python file.
+3. Execute the Python file.
+4. The submission file will be generated.
